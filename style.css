@@ -36,3 +36,20 @@ nav a {
 nav li:hover {
 
 }
+.card {
+  margin: 20px;
+  padding: 20px;
+  color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green
+
+}
+.blue {
+  background-color: blue
+}
